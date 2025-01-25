@@ -14,12 +14,6 @@
     height: 100%;
 }
 
-/* .experience__container > div:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
-    cursor: default;
-  } */
-
 .experience__item {
     display: flex;
     justify-content: flex-end;
@@ -28,6 +22,12 @@
     margin: 10px 0;
     width: 50%;
 }
+
+.experience__item > div:hover {
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+  }
 
 .experience__item > div {
     background: var(--color-bg-variant);

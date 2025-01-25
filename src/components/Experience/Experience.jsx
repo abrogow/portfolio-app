@@ -4,10 +4,15 @@ import ExperienceItem from "./ExperienceItem";
 
 const items = [
   {
-    company: "Nordcloud Sp. z o.o.",
+    company: "Nordcloud, an IBM Company",
     position: "FULLSTACK ENGINEER",
     date: "Jun 2022 - Present",
     projects: [
+      {
+        title: "PROJECT: Prisma for BP",
+        description: "Project for petrol stations analysis and management",
+        technologies: "TypeScript (React), AWS (Amplify, S3), Git, Scrum, Figma",
+      },
       {
         title: "PROJECT: Lubrication Cloud for SKF",
         description: "Project for lubrication points management",
@@ -21,7 +26,7 @@ const items = [
     ]
   },
   {
-    company: "HL Tech Sp. z o.o.",
+    company: "HL Tech",
     position: "SOFTWARE ENGINEER",
     date: "Jul 2019 - Jun 2022",
     projects: [
@@ -43,7 +48,7 @@ const items = [
     ]
   },
   {
-    company: "Quality Business Software Sp. z o.o.",
+    company: "Quality Business Software",
     position: "SOFTWARE ENGINEER",
     date: "Jul 2018 - Apr 2019",
     projects: [

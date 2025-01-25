@@ -1,13 +1,12 @@
 import React from 'react'
 import './Portfolio.css'
-import PORTFOLIO_APP from '../../pics/portfolio-app.jpg'
 
 const data = [
   {
     id: 1,
-    image: {PORTFOLIO_APP},
+    image: {},
     title: 'Portfolio Website',
-    github: 'https://https://github.com/abrogow/portfolio-app',
+    github: 'https://github.com/abrogow',
   },
   {
     id: 2,
