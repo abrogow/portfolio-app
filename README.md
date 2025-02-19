@@ -1,13 +1,6 @@
 # Portfolio Website
 > My personal portfolio website.
-> Live demo [_here_](https://https://github.com/abrogow/portfolio-app/settings/pages). <!-- If you have the project hosted somewhere, include the link here. -->
-
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+> Live demo [_here_](https://https://github.com/abrogow/portfolio-app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Available Scripts
 
@@ -34,4 +27,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm deploy`
 
 Deploy new version of code to Github Pages.
-Live demo [_here_](https://https://github.com/abrogow/portfolio-app/settings/pages).
+Live demo [_here_](https://https://github.com/abrogow/).
