@@ -1,6 +1,6 @@
 # Portfolio Website
 > My personal portfolio website.
-> Live demo [_here_](https://https://github.com/abrogow/portfolio-app/). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://abrogow.github.io/portfolio-app/). 
 
 ## Available Scripts
 
@@ -27,4 +27,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm deploy`
 
 Deploy new version of code to Github Pages.
-Live demo [_here_](https://https://github.com/abrogow/).
+Live demo [_here_](https://abrogow.github.io/portfolio-app/).
